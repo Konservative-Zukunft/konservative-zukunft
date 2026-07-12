@@ -110,7 +110,7 @@ button, input { font: inherit; }
 .cover-flag i:nth-child(2) { background: #dd1533; }
 .cover-flag i:nth-child(3) { background: #e9b72e; }
 .edition-cover p { margin: 0 0 15px; color: var(--gold); font-size: .68rem; font-weight: 900; letter-spacing: .12em; text-transform: uppercase; }
-.edition-cover strong { max-width: 340px; font-size: clamp(2.3rem, 4vw, 4.5rem); line-height: .87; letter-spacing: -.07em; text-transform: uppercase; }
+.edition-cover strong { max-width: 100%; font-size: clamp(2.15rem, 3.4vw, 3.65rem); line-height: .9; letter-spacing: -.065em; overflow-wrap: anywhere; hyphens: auto; text-transform: uppercase; }
 .edition-cover small { margin-top: 24px; color: #aaa; font-weight: 800; }
 .overline--light { color: #ffd563; }
 .edition-copy { max-width: 700px; }
@@ -211,9 +211,10 @@ a.issue-tile:hover { transform: translateY(-4px); box-shadow: 0 18px 50px rgba(1
 .reading-progress { height: 3px; position: fixed; top: 6px; left: 0; z-index: 70; background: var(--red); transform-origin: left; transform: scaleX(0); }
 .issue-page-grid { padding-block: 80px 120px; display: grid; grid-template-columns: 330px 1fr; gap: 80px; }
 .issue-page-cover { position: sticky; top: 120px; }
+.issue-page-cover strong { font-size: clamp(2.1rem, 3vw, 3.1rem); }
 .issue-print-button { width: 100%; margin-top: 32px; }
 .issue-hero h1 { max-width: 1140px; }
-.issue-main { min-width: 0; }
+.issue-main, .edition-copy, .section-head > div { min-width: 0; }
 .issue-editorial { margin-bottom: 70px; padding: 34px 38px; border-left: 6px solid var(--red); background: var(--white); }
 .issue-editorial h2 { margin: 0; font-size: clamp(2.3rem, 4vw, 4.4rem); line-height: .92; letter-spacing: -.06em; text-transform: uppercase; }
 .issue-editorial > p:last-child { max-width: 720px; margin: 22px 0 0; color: #55585c; font-family: var(--serif); font-size: 1.05rem; }
