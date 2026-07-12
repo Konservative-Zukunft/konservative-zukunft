@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Pflege in Deutschland 2023</title>
+  <desc id="desc">Von 5,7 Millionen Pflegebedürftigen wurden 86 Prozent zu Hause und 14 Prozent vollstationär versorgt. 3,1 Millionen wurden zu Hause überwiegend durch Angehörige gepflegt.</desc>
+  <rect width="1200" height="760" fill="#101214"/>
+  <rect x="0" y="0" width="400" height="8" fill="#111111"/>
+  <rect x="400" y="0" width="400" height="8" fill="#b5122b"/>
+  <rect x="800" y="0" width="400" height="8" fill="#d2a72c"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="78" y="92" fill="#d2a72c" font-size="24" font-weight="700" letter-spacing="5">DATENGRAFIK</text>
+    <text x="78" y="157" fill="#fffefa" font-size="54" font-weight="800">Pflege findet zu Hause statt.</text>
+    <text x="78" y="205" fill="#aeb0b3" font-size="25">Versorgung der 5,7 Millionen Pflegebedürftigen im Dezember 2023</text>
+
+    <rect x="78" y="286" width="898" height="86" rx="3" fill="#b5122b"/>
+    <rect x="976" y="286" width="146" height="86" rx="3" fill="#d2a72c"/>
+    <text x="108" y="343" fill="#fffefa" font-size="34" font-weight="800">86 % zu Hause</text>
+    <text x="1049" y="342" fill="#101214" font-size="25" font-weight="800" text-anchor="middle">14 %</text>
+
+    <g transform="translate(78 447)">
+      <text x="0" y="0" fill="#fffefa" font-size="66" font-weight="800">4,89 Mio.</text>
+      <text x="0" y="40" fill="#aeb0b3" font-size="23">wurden zu Hause versorgt</text>
+    </g>
+    <g transform="translate(470 447)">
+      <text x="0" y="0" fill="#fffefa" font-size="66" font-weight="800">3,1 Mio.</text>
+      <text x="0" y="40" fill="#aeb0b3" font-size="23">überwiegend durch Angehörige</text>
+    </g>
+    <g transform="translate(862 447)">
+      <text x="0" y="0" fill="#fffefa" font-size="66" font-weight="800">0,80 Mio.</text>
+      <text x="0" y="40" fill="#aeb0b3" font-size="23">vollstationär versorgt</text>
+    </g>
+
+    <line x1="78" y1="570" x2="1122" y2="570" stroke="#36393d"/>
+    <text x="78" y="626" fill="#fffefa" font-size="27" font-weight="700">Der größte Pflegedienst des Landes ist die Familie.</text>
+    <text x="78" y="682" fill="#7f8286" font-size="18">Quelle: Statistisches Bundesamt, Pflegestatistik 2023, veröffentlicht am 18. Dezember 2024.</text>
+    <text x="1122" y="720" fill="#d2a72c" font-size="17" font-weight="700" text-anchor="end" letter-spacing="2">KONSERVATIVE ZUKUNFT</text>
+  </g>
+</svg>

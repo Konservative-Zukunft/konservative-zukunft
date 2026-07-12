@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 860" role="img" aria-labelledby="title desc">
+  <title id="title">Karikatur: Entlastung nach Ministeriumsart</title>
+  <desc id="desc">Eine Familie trägt eine schwere Pflegekasse, während ein Beamter auf einem Podest einen kleinen Zettel mit der Aufschrift Beratung reicht.</desc>
+  <rect width="1200" height="860" fill="#f5f3ed"/>
+  <rect x="0" y="0" width="1200" height="10" fill="#101214"/><rect x="400" y="0" width="400" height="10" fill="#b5122b"/><rect x="800" y="0" width="400" height="10" fill="#d2a72c"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="72" y="84" fill="#b5122b" font-size="21" font-weight="700" letter-spacing="5">KARIKATUR</text>
+    <text x="72" y="145" fill="#101214" font-size="49" font-weight="800">Entlastung nach Ministeriumsart</text>
+
+    <g transform="translate(78 250)">
+      <rect x="255" y="78" width="610" height="245" rx="28" fill="#101214"/>
+      <text x="560" y="177" fill="#fffefa" font-size="52" font-weight="800" text-anchor="middle">PFLEGEKASSE</text>
+      <text x="560" y="237" fill="#d2a72c" font-size="27" font-weight="700" text-anchor="middle">ÜBER 6 MILLIONEN FÄLLE</text>
+      <path d="M270 323h580" stroke="#b5122b" stroke-width="18"/>
+
+      <g stroke="#101214" stroke-width="16" stroke-linecap="round" stroke-linejoin="round" fill="none">
+        <circle cx="235" cy="380" r="42" fill="#f5f3ed"/><path d="M235 422v105M235 455l-55 65M235 455l61 62M235 527l-42 74M235 527l43 73"/>
+        <circle cx="555" cy="382" r="42" fill="#f5f3ed"/><path d="M555 424v103M555 456l-56 61M555 456l60 61M555 527l-40 74M555 527l43 73"/>
+        <circle cx="845" cy="382" r="42" fill="#f5f3ed"/><path d="M845 424v103M845 456l-53 61M845 456l60 61M845 527l-39 74M845 527l43 73"/>
+      </g>
+      <g fill="#b5122b"><path d="M174 520h122l-16 40h-90z"/><path d="M494 517h122l-16 40h-90z"/><path d="M784 517h122l-16 40h-90z"/></g>
+
+      <g transform="translate(900 -25)">
+        <rect x="0" y="105" width="180" height="250" fill="#d2a72c"/>
+        <circle cx="90" cy="55" r="46" fill="#fffefa" stroke="#101214" stroke-width="10"/>
+        <path d="M46 96h88l27 118H20z" fill="#6d7074" stroke="#101214" stroke-width="9"/>
+        <path d="M45 144l-118 52" stroke="#101214" stroke-width="14" stroke-linecap="round"/>
+        <rect x="-179" y="170" width="120" height="76" transform="rotate(-12 -119 208)" fill="#fffefa" stroke="#101214" stroke-width="7"/>
+        <text x="-119" y="207" fill="#b5122b" font-size="19" font-weight="800" text-anchor="middle" transform="rotate(-12 -119 208)">BERATUNG</text>
+        <text x="90" y="291" fill="#101214" font-size="20" font-weight="800" text-anchor="middle">MINISTERIUM</text>
+      </g>
+    </g>
+
+    <path d="M80 758h1040" stroke="#c8c5bd" stroke-width="2"/>
+    <text x="80" y="808" fill="#101214" font-size="27" font-weight="700">„Wir entlasten die Angehörigen.“ – Das Gewicht bleibt, der Zettel ist neu.</text>
+    <text x="1120" y="837" fill="#b5122b" font-size="15" font-weight="700" text-anchor="end" letter-spacing="2">KONSERVATIVE ZUKUNFT</text>
+  </g>
+</svg>
