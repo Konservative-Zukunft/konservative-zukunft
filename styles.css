@@ -72,10 +72,12 @@ button, input { font: inherit; }
 .text-link { padding: 0; border: 0; display: inline-flex; gap: 10px; align-items: center; color: var(--black); background: none; font-size: .73rem; font-weight: 900; letter-spacing: .08em; text-decoration: none; text-transform: uppercase; cursor: pointer; }
 .text-link span { color: var(--red); transition: transform .2s; }
 .text-link:hover span { transform: translateX(4px); }
-.hero-visual { min-height: 550px; position: relative; overflow: hidden; background: var(--black); text-decoration: none; box-shadow: 22px 22px 0 var(--gray); }
-.hero-visual img { width: 100%; height: 100%; position: absolute; inset: 0; object-fit: cover; transition: transform .5s ease; }
+.hero-visual { min-height: 0; aspect-ratio: 1; position: relative; overflow: hidden; background: var(--black); text-decoration: none; box-shadow: 22px 22px 0 var(--gray); isolation: isolate; }
+.hero-visual picture { position: absolute; inset: 0; }
+.hero-visual img { width: 100%; height: 100%; object-fit: cover; transition: transform .5s ease; }
 .hero-visual:hover img { transform: scale(1.025); }
-.visual-label { padding: 11px 16px; position: absolute; right: 22px; bottom: 22px; color: #fff; background: rgba(16,18,20,.9); font-size: .64rem; font-weight: 900; letter-spacing: .12em; text-transform: uppercase; }
+.visual-label { padding: 11px 16px; position: absolute; right: 22px; bottom: 22px; z-index: 1; display: inline-flex; gap: 10px; align-items: center; color: #fff; background: rgba(16,18,20,.92); border: 1px solid rgba(255,255,255,.18); font-size: .64rem; font-weight: 900; letter-spacing: .12em; text-transform: uppercase; backdrop-filter: blur(8px); }
+.visual-label span { color: var(--gold); }
 
 .ticker { overflow: hidden; color: #fff; background: var(--black); }
 .ticker-track { min-height: 58px; padding-inline: 24px; display: flex; gap: clamp(24px, 5vw, 74px); align-items: center; justify-content: center; white-space: nowrap; }
@@ -226,7 +228,7 @@ a.issue-tile:hover { transform: translateY(-4px); box-shadow: 0 18px 50px rgba(1
   .mobile-nav.is-open { display: block; }
   .hero { min-height: auto; grid-template-columns: 1fr; }
   .hero-copy { max-width: 780px; }
-  .hero-visual { min-height: 520px; }
+  .hero-visual { width: min(100%, 720px); }
   .week-list li > div { grid-template-columns: 110px 1fr; }
   .week-list li p:last-child { grid-column: 2; }
   .issue-grid { grid-template-columns: 1fr; }
@@ -247,7 +249,7 @@ a.issue-tile:hover { transform: translateY(-4px); box-shadow: 0 18px 50px rgba(1
   .hero .overline { margin-top: 32px; }
   .hero h1 { font-size: clamp(3.6rem, 18vw, 5.4rem); }
   .hero-actions { align-items: flex-start; flex-direction: column; }
-  .hero-visual { min-height: 390px; box-shadow: 10px 10px 0 var(--gray); }
+  .hero-visual { min-height: 0; box-shadow: 10px 10px 0 var(--gray); }
   .ticker-track { justify-content: flex-start; overflow: hidden; }
   .ticker span:nth-of-type(n+4), .ticker i:nth-of-type(n+4) { display: none; }
   .section-head { align-items: flex-start; flex-direction: column; }
