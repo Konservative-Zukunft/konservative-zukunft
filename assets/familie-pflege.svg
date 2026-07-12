@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Familie, Pflege und Verantwortung</title>
+  <desc id="desc">Abstrakte redaktionelle Illustration einer Familie vor Schwarz, Rot und Gold.</desc>
+  <rect width="1200" height="1000" fill="#101214"/>
+  <path d="M-80 780C230 555 442 546 672 668s394 99 640-110v442H-80Z" fill="#b5122b"/>
+  <path d="M-80 902c299-168 557-171 770-69s386 91 622-64v231H-80Z" fill="#d2a72c"/>
+  <circle cx="854" cy="245" r="166" fill="none" stroke="#fffefa" stroke-opacity=".14" stroke-width="3"/>
+  <circle cx="854" cy="245" r="112" fill="none" stroke="#fffefa" stroke-opacity=".1" stroke-width="2"/>
+  <path d="M161 130h540" stroke="#fffefa" stroke-opacity=".17" stroke-width="2"/>
+  <path d="M161 164h366" stroke="#fffefa" stroke-opacity=".1" stroke-width="2"/>
+  <g fill="#f5f3ed">
+    <circle cx="434" cy="390" r="86"/>
+    <path d="M298 760c10-179 34-273 136-273s128 94 138 273Z"/>
+  </g>
+  <g fill="#cac8c2">
+    <circle cx="710" cy="346" r="73"/>
+    <path d="M601 725c8-157 28-244 109-244s103 87 112 244Z"/>
+  </g>
+  <g fill="#fffefa">
+    <circle cx="606" cy="545" r="45"/>
+    <path d="M538 780c5-105 18-163 68-163s64 58 70 163Z"/>
+  </g>
+  <path d="M509 565c58 18 93 19 151-2" fill="none" stroke="#b5122b" stroke-width="16" stroke-linecap="round"/>
+  <path d="M761 421c35 20 65 55 80 101" fill="none" stroke="#d2a72c" stroke-width="17" stroke-linecap="round"/>
+  <g fill="#fffefa" font-family="Arial, sans-serif" font-weight="700">
+    <text x="160" y="895" font-size="29" letter-spacing="8">FAMILIE TRÄGT</text>
+    <text x="160" y="934" font-size="18" letter-spacing="5" opacity=".7">EINE GESELLSCHAFT, DIE SIE TRÄGT.</text>
+  </g>
+  <path d="M1148 0h52v1000h-52z" fill="#b5122b"/>
+</svg>
