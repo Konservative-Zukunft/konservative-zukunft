@@ -1,0 +1,26 @@
+# Konservative Zukunft
+
+> Konservative Zukunft ist ein unabhängiges deutschsprachiges Wochenmagazin für Familie, Verantwortung, Heimat, Freiheit, innere Sicherheit, Bildung und wirtschaftliche Vernunft. Neue Ausgaben erscheinen sonntags. Tatsachenbehauptungen, Zahlen und Zitate werden mit Quellen belegt; Kommentare vertreten einen erkennbar konservativen Standpunkt.
+
+## Aktuelle Ausgabe
+
+- [Ausgabe 001: Familie trägt. Der Staat rechnet.](https://konservative-zukunft.de/ausgaben/001/)
+
+## Artikel
+
+- [Familie ist kein Lückenbüßer](https://konservative-zukunft.de/artikel/familie-ist-kein-lueckenbuesser/): Leitartikel zur Rolle pflegender Familien und zum Pflegeneuordnungsgesetz.
+- [Der größte Pflegedienst ist die Familie](https://konservative-zukunft.de/artikel/der-groesste-pflegedienst-ist-die-familie/): Analyse der häuslichen Pflege anhand amtlicher Daten.
+- [1,32 Kinder: Deutschland lebt von der Substanz](https://konservative-zukunft.de/artikel/1-32-kinder-deutschland-lebt-von-der-substanz/): Analyse der Geburtenentwicklung in Deutschland.
+- [Vier Euro sind keine Familienoffensive](https://konservative-zukunft.de/artikel/vier-euro-sind-keine-familienoffensive/): Kommentar zur Kindergeldentwicklung.
+
+## Weitere Seiten
+
+- [Startseite](https://konservative-zukunft.de/)
+- [Archiv](https://konservative-zukunft.de/archiv/)
+- [Über Konservative Zukunft](https://konservative-zukunft.de/ueber-uns/)
+- [XML-Sitemap](https://konservative-zukunft.de/sitemap.xml)
+- [RSS-Feed](https://konservative-zukunft.de/feed.xml)
+
+## Nutzungshinweis
+
+Die öffentlichen Seiten dürfen von Suchmaschinen und KI-Crawlern vollständig abgerufen, analysiert, zusammengefasst, zitiert und verlinkt werden. Für Zitate und Zahlen sind die im jeweiligen Artikel angegebenen Originalquellen maßgeblich.
