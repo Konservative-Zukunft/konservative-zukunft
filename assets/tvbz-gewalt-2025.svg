@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+  <title id="title">Tatverdächtigenbelastungszahl Gewaltkriminalität 2025</title>
+  <desc id="desc">Vergleich je 100.000 Einwohner: deutsche Staatsangehörigkeit 158, afghanische Staatsangehörigkeit 1508.</desc>
+  <rect width="1200" height="800" fill="#f5f3ed"/>
+  <rect x="0" y="0" width="18" height="800" fill="#b5122b"/>
+  <text x="72" y="84" fill="#b5122b" font-family="Manrope,Arial,sans-serif" font-size="22" font-weight="800" letter-spacing="4">PKS 2025 · GEWALTKRIMINALITÄT</text>
+  <text x="72" y="150" fill="#101214" font-family="Manrope,Arial,sans-serif" font-size="52" font-weight="800">Ein Abstand, den Politik</text>
+  <text x="72" y="208" fill="#101214" font-family="Manrope,Arial,sans-serif" font-size="52" font-weight="800">erklären – nicht verschweigen muss.</text>
+  <text x="72" y="255" fill="#6d7074" font-family="Source Serif 4,Georgia,serif" font-size="25">Ansässige Tatverdächtige ab acht Jahren je 100.000 Einwohner der jeweiligen Staatsangehörigkeit.</text>
+
+  <text x="72" y="345" fill="#101214" font-family="Manrope,Arial,sans-serif" font-size="22" font-weight="800">DEUTSCHE STAATSANGEHÖRIGKEIT</text>
+  <rect x="72" y="370" width="1000" height="76" fill="#dedbd3"/>
+  <rect x="72" y="370" width="105" height="76" fill="#101214"/>
+  <text x="194" y="424" fill="#101214" font-family="Manrope,Arial,sans-serif" font-size="40" font-weight="800">158</text>
+
+  <text x="72" y="518" fill="#101214" font-family="Manrope,Arial,sans-serif" font-size="22" font-weight="800">AFGHANISCHE STAATSANGEHÖRIGKEIT</text>
+  <rect x="72" y="543" width="1000" height="76" fill="#dedbd3"/>
+  <rect x="72" y="543" width="1000" height="76" fill="#b5122b"/>
+  <text x="1090" y="597" fill="#101214" font-family="Manrope,Arial,sans-serif" font-size="40" font-weight="800">1.508</text>
+
+  <rect x="756" y="296" width="316" height="112" rx="4" fill="#d2a72c"/>
+  <text x="784" y="340" fill="#101214" font-family="Manrope,Arial,sans-serif" font-size="18" font-weight="800" letter-spacing="2">VERHÄLTNIS</text>
+  <text x="784" y="388" fill="#101214" font-family="Manrope,Arial,sans-serif" font-size="46" font-weight="800">rund 9,5 : 1</text>
+
+  <line x1="72" y1="690" x2="1128" y2="690" stroke="#b9b6af"/>
+  <text x="72" y="730" fill="#6d7074" font-family="Manrope,Arial,sans-serif" font-size="17">Quelle: Deutscher Bundestag, Drucksache 21/5881, Berichtsjahr 2025.</text>
+  <text x="72" y="760" fill="#6d7074" font-family="Manrope,Arial,sans-serif" font-size="17">Tatverdächtige sind nicht Verurteilte. Die Kennzahl ist kein Maß für individuelle Schuld.</text>
+</svg>

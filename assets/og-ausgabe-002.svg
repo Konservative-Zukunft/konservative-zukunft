@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Konservative Zukunft, Ausgabe 002</title>
+  <desc id="desc">Titelmotiv mit der Schlagzeile Wer schützt den Alltag?</desc>
+  <rect width="1200" height="630" fill="#101214"/>
+  <path d="M0 548 C260 500 472 552 718 502 C890 468 1030 472 1200 498 L1200 630 L0 630Z" fill="#b5122b"/>
+  <path d="M0 594 C280 548 530 606 770 552 C938 520 1061 532 1200 554 L1200 630 L0 630Z" fill="#d2a72c"/>
+  <text x="68" y="72" fill="#ffffff" font-family="Manrope,Arial,sans-serif" font-size="26" font-weight="800">KONSERVATIVE</text>
+  <text x="300" y="72" fill="#e62d47" font-family="Manrope,Arial,sans-serif" font-size="26" font-weight="800">ZUKUNFT</text>
+  <rect x="68" y="103" width="1064" height="2" fill="#474a4e"/>
+  <text x="68" y="157" fill="#d2a72c" font-family="Manrope,Arial,sans-serif" font-size="18" font-weight="800" letter-spacing="4">AUSGABE 002 · 19. JULI 2026</text>
+  <text x="68" y="270" fill="#ffffff" font-family="Manrope,Arial,sans-serif" font-size="92" font-weight="800">WER SCHÜTZT</text>
+  <text x="68" y="360" fill="#ffffff" font-family="Manrope,Arial,sans-serif" font-size="92" font-weight="800">DEN ALLTAG?</text>
+  <text x="68" y="423" fill="#bfc1c4" font-family="Source Serif 4,Georgia,serif" font-size="28">Trier. Bahnsabotage. Digitale Kontrolle. Politische Glaubwürdigkeit.</text>
+  <text x="68" y="598" fill="#101214" font-family="Manrope,Arial,sans-serif" font-size="17" font-weight="800" letter-spacing="2">KLAR IM URTEIL. SAUBER IN DEN FAKTEN.</text>
+</svg>

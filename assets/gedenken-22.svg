@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Gedenken an den getöteten Studenten von Trier</title>
+  <desc id="desc">Eine stilisierte Kerze vor dunklem Hintergrund mit den Worten 22 Jahre, auf dem Heimweg, nicht vergessen.</desc>
+  <rect width="1200" height="700" fill="#101214"/>
+  <rect x="0" y="0" width="14" height="700" fill="#b5122b"/>
+  <circle cx="284" cy="350" r="190" fill="#191c1f" stroke="#34373b" stroke-width="2"/>
+  <path d="M284 156 C244 220 252 260 284 282 C319 251 331 211 284 156Z" fill="#d2a72c"/>
+  <path d="M284 205 C270 236 274 251 285 260 C299 245 301 229 284 205Z" fill="#fff4c2"/>
+  <rect x="230" y="285" width="108" height="224" rx="8" fill="#f5f3ed"/>
+  <path d="M230 326 Q285 355 338 326 L338 510 L230 510Z" fill="#e8e3d6"/>
+  <text x="530" y="218" fill="#d2a72c" font-family="Manrope,Arial,sans-serif" font-size="22" font-weight="800" letter-spacing="4">GEGEN DAS VERGESSEN</text>
+  <text x="530" y="315" fill="#ffffff" font-family="Manrope,Arial,sans-serif" font-size="82" font-weight="800">22 JAHRE.</text>
+  <text x="530" y="392" fill="#ffffff" font-family="Manrope,Arial,sans-serif" font-size="58" font-weight="800">AUF DEM HEIMWEG.</text>
+  <line x1="530" y1="440" x2="1080" y2="440" stroke="#b5122b" stroke-width="8"/>
+  <text x="530" y="505" fill="#bfc1c4" font-family="Source Serif 4,Georgia,serif" font-size="30">Sein Name ist nicht öffentlich.</text>
+  <text x="530" y="548" fill="#bfc1c4" font-family="Source Serif 4,Georgia,serif" font-size="30">Sein Tod darf keine Randnotiz sein.</text>
+  <text x="530" y="622" fill="#6d7074" font-family="Manrope,Arial,sans-serif" font-size="16">Trier · 15. Juli 2026 · Quelle: Polizei und Staatsanwaltschaft Trier</text>
+</svg>
